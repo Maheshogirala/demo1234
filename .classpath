@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="D:/Drivers/Selenium/selenium-server-standalone-3.8.1.jar"/>
+	<classpathentry kind="lib" path="D:/Drivers/apachepoi/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="D:/Drivers/apachepoi/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="D:/Drivers/apachepoi/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Drivers/apachepoi/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/Drivers/apachepoi/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/Drivers/apachepoi/poi-examples-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/Drivers/apachepoi/poi-excelant-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/Drivers/apachepoi/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/Drivers/apachepoi/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/Drivers/apachepoi/poi-scratchpad-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/Drivers/apachepoi/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
